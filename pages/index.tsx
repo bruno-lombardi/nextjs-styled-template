@@ -1,5 +1,5 @@
-import Head from 'next/head'
+import Home from '../components/pages/Home'
 
-export default function Home() {
-  return <h1>Happy</h1>
+export default function Index() {
+  return <Home />
 }
