@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) template bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -14,14 +14,14 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-## Learn More
+## Dependencies used
 
-To learn more about Next.js, take a look at the following resources:
+The following dependencies have been added and configured in this template:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [Typescript](https://typescriptlang.org) - superset of Javascript with static type support.
+- [Styled Components](https://styled-components.com) - javascript and css based component library.
+- [ESLint](https://eslint.org) - find and fix problems in code.
+- [Prettier](https://prettier.io) - multi-language code formatter.
 
 ## Deploy on Vercel
 
